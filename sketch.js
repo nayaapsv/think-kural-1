@@ -38,7 +38,7 @@ function preload(){
   
   
   
-  bg2 = loadImage("images/oldbg.jpg")
+  bg2 = loadImage("oldbg.jpg")
 }
 function setup() {
   createCanvas(1700,800);
